@@ -7,7 +7,6 @@
 
 ## First Step:
 
-<ul>
 <li>The second element of the array is chosen as the starting element.
 Here, 27 is greater than 22, thus both elements seems to be in ascending order, hence, no swapping will occur.
 <br> 
@@ -22,7 +21,7 @@ Here, 27 is greater than 22, thus both elements seems to be in ascending order, 
 <br>
     [<b>16</b>,22,27,2,18,6]
 <br></li>
-</ul>
+
 
 ## Second Step:
 
