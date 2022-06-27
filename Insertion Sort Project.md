@@ -6,6 +6,7 @@
 ## 1. Write the stages of the above sequence according to the sort type.
 
 ## First Step:
+
 <ul>
 <li>The second element of the array is chosen as the starting element.
 Here, 27 is greater than 22, thus both elements seems to be in ascending order, hence, no swapping will occur.
@@ -24,7 +25,8 @@ Here, 27 is greater than 22, thus both elements seems to be in ascending order, 
 </ul>
 
 ## Second Step:
-In this step, it is time to look at the fourth element, the number 2. Since it is smaller than all of them, it swap again and again. Hence, it settles to the far left.\
+
+In this step, it is time to look at the fourth element, the number 2. Since it is smaller than all of them, it swap again and again. Hence, it settles to the far left.
 
 [16,22,27,**2**,18,6]\
 [16,22,**2**,27,18,6]\
@@ -32,12 +34,14 @@ In this step, it is time to look at the fourth element, the number 2. Since it i
 [**2**,16,22,27,18,6]
 
 ## Third Step:
+
 Look at the fifth element which is 18. Now, 18 is smaller than 27 and 22. Hence, swap again twice.\
 
 [2,16,22,**18**,27,6]\
 [2,16,**18**,22,27,6]
 
 ## Fourth Step:
+
 Look at the sixth element which is 6. Now, 6 is smaller than 27, 22, 18 and 16. Hence, swap again four times.\
 
 [2,16,18,22,**6**,27]\
