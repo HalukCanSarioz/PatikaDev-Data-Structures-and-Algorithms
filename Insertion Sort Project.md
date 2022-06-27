@@ -54,7 +54,6 @@ Since the number of Time Complexity 18 is in the middle after the sorting it is 
 
 ## 4. Write the first 4 steps of [7,3,5,8,2,9,4,15.6] according to Insertion Sort.
 
-**Steps:**
 <ul>
 Step 1:
   <br>
