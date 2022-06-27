@@ -17,10 +17,10 @@ Here, 27 is greater than 22, thus both elements seems to be in ascending order, 
 <br>
     [22,<b>16</b>,27,2,18,6]
 <br> </li>
-<li>After swapping, elements 22 and 16 are not sorted, thus swap again..
+After swapping, elements 22 and 16 are not sorted, thus swap again..
 <br>
     [<b>16</b>,22,27,2,18,6]
-<br></li>
+<br>
 
 
 ## Second Step:
